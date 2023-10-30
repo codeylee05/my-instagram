@@ -1,2 +1,2 @@
-# my-instagram
-Uses Instagram Public Display API to fetch information
+# my-notion
+Uses Notion's public API to manipulate Notion workspace
